@@ -275,9 +275,9 @@ section .title::after{
     background-attachment: fixed;
 }
 
-.contact .title::after{
+/* .contact .title::after{
     content: "get in touch";
-}
+} */
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
